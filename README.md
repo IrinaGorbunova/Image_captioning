@@ -6,7 +6,7 @@
 |:-------:|:-------:|:-------:|:----------:|:---------:|:---------:|:-----------:|:-------:|
 | v1      | MS COCO | Inception 3 | glove 300d 6B | - | 25.02 | 26.6 (k=3) |
 | v2      | MS COCO | Inception 3 | crawl 300d 2M | - | 25.08 | 27.1 (k=3) | + fc |
-| v3      | Flickr 30 | Inception 3 | crawl 300d 2M | I | -- | | долго |
+| v3      | Flickr 30 | Inception 3 | crawl 300d 2M | I | 18.29 | | долго |
 | v4      | Flickr 30 | Resnext 101 | crawl 300d 2M | I | 20.52 | | тяжелая |
 | v5      | Flickr 30 | Resnet 101 | crawl 300d 2M | I | 20.87 | 
 | v6      | Flickr 30 | Resnet 101 | crawl 300d 2M | - | 18.49 | 
@@ -35,7 +35,7 @@
 
 | Version | Dataset | Encoder | Embeddings | Attention | Best BLEU | Comment |
 |:-------:|:-------:|:-------:|:----------:|:---------:|:---------:|:-------:|
-| v3      | Flickr 30 | Inception 3 | crawl 300d 2M | I | -- | долго |
+| v3      | Flickr 30 | Inception 3 | crawl 300d 2M | I | 18.29 | долго |
 | v4      | Flickr 30 | Resnext 101 | crawl 300d 2M | I | 20.52 | тяжелая |
 | **v5**      | **Flickr 30** | **Resnet 101** | **crawl 300d 2M** | **I** | **20.87** |
 
@@ -48,5 +48,6 @@
 | **v7**      | **Flickr 30** | **Resnet 101** | **crawl 300d 2M** | **II** | **20.93** |
 
 
-
+Сохраненные веса моделей можно скачать по ссылке:
+https://drive.google.com/drive/folders/18P3pPTviBJ0T4h7DtkBYSVOcoxASmYxS?usp=sharing
 
