@@ -51,3 +51,24 @@
 Сохраненные веса моделей можно скачать по ссылке:
 https://drive.google.com/drive/folders/18P3pPTviBJ0T4h7DtkBYSVOcoxASmYxS?usp=sharing
 
+### Ну и как же без примера напоследок:
+
+![Иллюстрация к проекту](https://github.com/IrinaGorbunova/Image_captioning/blob/master/img.jpg)
+
+А вот варианты заголовков от разных моделей:
+
+**v1** : "a man riding a skateboard down a ramp ."
+
+**v2** : "a man riding a skateboard up the side of a ramp ."
+
+**v3** : "a man jumps off a diving board into a pool ."
+
+**v4** : "a man in a green shirt and black shorts is doing a trick on a ramp ."
+
+**v5** : "a man wearing a green shirt and black pants is doing a trick on a skateboard ."
+
+**v6** : "a man in a black shirt is doing a trick on a skateboard ."
+
+**v7** : "a young man in a green shirt is skateboarding on a skateboard ."
+
+Модели, обученные на Flickr 30, почти всегда начинают описывать, кто во что одет, такие забавные.
