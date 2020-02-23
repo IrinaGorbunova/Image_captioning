@@ -10,7 +10,7 @@
 | v4      | Flickr 30 | Resnext 101 | crawl 300d 2M | I | 20.52 | | тяжелая |
 | v5      | Flickr 30 | Resnet 101 | crawl 300d 2M | I | 20.87 | 
 | v6      | Flickr 30 | Resnet 101 | crawl 300d 2M | - | 18.49 | 
-| v7      | Flickr 30 | Resnet 101 | crawl 300d 2M | II | 20.68 | 
+| v7      | Flickr 30 | Resnet 101 | crawl 300d 2M | II | 20.93 | 
 
 Глобально можно выделить 2 блока:
 
@@ -45,7 +45,7 @@
 |:-------:|:-------:|:-------:|:----------:|:---------:|:---------:|
 | **v5**      | **Flickr 30** | **Resnet 101** | **crawl 300d 2M** | **I** | **20.87** | 
 | v6      | Flickr 30 | Resnet 101 | crawl 300d 2M | - | 18.49 | 
-| **v7**      | **Flickr 30** | **Resnet 101** | **crawl 300d 2M** | **II** | **20.68** |
+| **v7**      | **Flickr 30** | **Resnet 101** | **crawl 300d 2M** | **II** | **20.93** |
 
 
 
